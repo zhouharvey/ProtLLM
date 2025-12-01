@@ -98,7 +98,7 @@ ProteinGPT outperforms standard LLMs (GPT-4, LLaMA, Mistral) in protein-related 
 
 ## BibTeX
 ```
-@article{xiao2024proteingpt,
+@article{Zhou2025protein_gpt,
   title={Proteingpt: Multimodal llm for protein property prediction and structure understanding},
   author={Zhou, Harvey},
   year={2025}
